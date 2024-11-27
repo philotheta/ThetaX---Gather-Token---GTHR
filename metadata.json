@@ -1,0 +1,12 @@
+{
+    "name": "Gather Token",
+    "symbol": "GTHR",,
+    "description": "Only Possible On Solana",
+    "image": "https://raw.githubusercontent.com/philotheta/ThetaX---Gather-Token---GTHR/refs/heads/main/Gather-GTHR.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
